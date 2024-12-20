@@ -38,3 +38,35 @@ let stringnumber = String(somenumber)
 console.log(stringnumber);
 console.log(typeof stringnumber);
 
+
+// **************************Operations***************************
+
+let value = 5
+let negValue = -value
+console.log(negValue);
+
+console.log(2+4);
+console.log(2-4);
+console.log(2/4);
+console.log(2*4);
+console.log(2**4);  // 2 to the power 4
+console.log(2%4);
+
+
+let str1 = "Deepesh"
+let str2 = " Katudia"
+
+let str3 = str1+str2
+console.log(str3);
+
+console.log(1+"2");
+console.log("1"+2);
+console.log(1+2);
+console.log(1+"2"+3);
+
+console.log(+true);
+
+let gamecounter = 100
+gamecounter++; // increment to 1 
+console.log(gamecounter);
+
